@@ -26,4 +26,4 @@ Power BI, Excel
 Download `sales_dashboard1.pbix` and open it in Power BI Desktop.
 
 ## Dataset
-Source: <add dataset link or name here>
+Source: https://www.kaggle.com/datasets/mdsazzatsardar/amazonsalesreport
